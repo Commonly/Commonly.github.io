@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Muricans</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</head>
+
+<body id="body">
+    <nav id="navigation" class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-header">
+            <a href="http://muricans.ml" class="navbar-brand">Muricans</a>
+        </div>
+        <div>
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Profiles <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.spigotmc.org/resources/authors/firee_.80892/">Spigot</a></li>
+                        <li><a href="https://github.com/Commonly">GitHub</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">JavaDoc <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="http://muricans.ml/doc/murapi">murAPI</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://muricans.ml/downloads.html">Downloads</a></li>
+                <li><a href="http://muricans.ml/forum">Forums</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div id="buttons" class="container">
+        <button id="btn-changelog" type="button" class="btn btn-info" data-toggle="modal" data-target="#changelog">Website plans</button>
+        <button id="btn-other" type="button" class="btn btn-info" data-toggle="modal" data-target="#other">Other</button>
+    </div>
+    <div class="container">
+        <center>
+            <h2>Resources</h2>
+        </center>
+        <center><a class="link" href="https://www.spigotmc.org/resources/murapi.32116/">murAPI</a></center>
+        <center><a class="link" href="https://github.com/Commonly/murAPI/">murAPI GitHub</a></center>
+        <center><a target="_blank" rel="noreferrer" class="link" href="https://www.spigotmc.org/resources/msg-tested-on-1-8-1-7-10-1-10.31708/">MSG</a></center>
+        <center><a class="link" href="https://github.com/Commonly/msg-latest/">MSG GitHub</a></center>
+        <div class="modal fade" id="other">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h3 class="modal-title">Other</h3>
+                    </div>
+                    <div class="modal-body">
+                        <center><a href="http://muricans.ml/repo">Public repository</a></center>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="changelog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <!-- HEADER -->
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h3 class="modal-title">Changelog/plans</h3>
+                    </div>
+                    <!-- BODY -->
+                    <div class="modal-body">
+                        <ul>
+                            <li>Nothing for now!</li>
+                        </ul>
+                    </div>
+                    <!-- FOOTER -->
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
