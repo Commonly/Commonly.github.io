@@ -1,0 +1,13 @@
+com.connorlinfoot.bountifulapi
+me.jdog.murapi
+me.jdog.murapi.api
+me.jdog.murapi.api.cmd
+me.jdog.murapi.api.config
+me.jdog.murapi.api.fetch
+me.jdog.murapi.api.file
+me.jdog.murapi.api.gui
+me.jdog.murapi.api.logger
+me.jdog.murapi.api.network
+me.jdog.murapi.api.network.type
+me.jdog.murapi.events
+me.jdog.murapi.exceptions
