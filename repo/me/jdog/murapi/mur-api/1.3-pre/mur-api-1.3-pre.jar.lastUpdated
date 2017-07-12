@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Dec 20 17:19:45 CST 2016
+default->https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.lastUpdated=1482275984163
+>https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.error=Could not transfer artifact me.jdog.murapi\:mur-api\:jar\:1.3-pre from/to spigot-repo (>https\://hub.spigotmc.org/nexus/content/repositories/snapshots)\: No connector available to access repository spigot-repo (>https\://hub.spigotmc.org/nexus/content/repositories/snapshots) of type default using the available factories WagonRepositoryConnectorFactory
+http\://muricans.ml/repo/.lastUpdated=1482275985995

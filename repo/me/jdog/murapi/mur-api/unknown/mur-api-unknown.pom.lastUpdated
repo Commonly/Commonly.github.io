@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Dec 27 12:04:08 CST 2016
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482861848812
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.error=
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.lastUpdated=1482861848489
+http\://muricans.ml/repo/.error=
+http\://repo.maven.apache.org/maven2/.error=
+default->https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.lastUpdated=1482275979985
+>https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.error=Could not transfer artifact me.jdog.murapi\:mur-api\:pom\:unknown from/to spigot-repo (>https\://hub.spigotmc.org/nexus/content/repositories/snapshots)\: No connector available to access repository spigot-repo (>https\://hub.spigotmc.org/nexus/content/repositories/snapshots) of type default using the available factories WagonRepositoryConnectorFactory
+http\://muricans.ml/repo/.lastUpdated=1482861848652

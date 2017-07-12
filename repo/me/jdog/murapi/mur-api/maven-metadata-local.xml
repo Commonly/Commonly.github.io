@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>me.jdog.murapi</groupId>
+  <artifactId>mur-api</artifactId>
+  <versioning>
+    <release>1.0.0</release>
+    <versions>
+      <version>1.3-pre</version>
+      <version>1.4-pre</version>
+      <version>1.5-pre</version>
+      <version>1.6-pre</version>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20170712211715</lastUpdated>
+  </versioning>
+</metadata>
