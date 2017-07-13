@@ -1,0 +1,22 @@
+#body {
+    padding-top: 50px;
+    background-color: aliceblue;
+}
+
+#site-title {
+    color: dimgray;
+}
+
+#btn-changelog {
+    float: right;
+    position: relative;
+}
+
+#btn-other {
+    float: left;
+    position: relative;
+}
+
+#buttons {
+    padding-top: 50px;
+}
